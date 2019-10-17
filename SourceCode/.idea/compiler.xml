@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch10" />
+        <module name="some" />
+        <module name="person" />
+        <module name="monitor" />
+        <module name="config" />
+        <module name="highlight_spring4" />
+        <module name="ch10docker" />
+        <module name="discovery" />
+        <module name="ch9_3_5" />
+        <module name="ch9_3_4" />
+        <module name="ch5_2_3" />
+        <module name="ch11_3" />
+        <module name="ch9_4" />
+        <module name="ch9_2" />
+        <module name="ch9_1" />
+        <module name="ch8_5" />
+        <module name="ch8_4" />
+        <module name="ch8_3" />
+        <module name="ch8_2" />
+        <module name="ch11_1" />
+        <module name="ch7_7" />
+        <module name="ch7_6" />
+        <module name="ch7_4" />
+        <module name="ch10_4" />
+        <module name="ch7_2" />
+        <module name="ui" />
+        <module name="ch5_2_2" />
+        <module name="ch6_5" />
+        <module name="ch6_4" />
+        <module name="ch6_2_3" />
+        <module name="highlight_springmvc4" />
+        <module name="ch8_6_2" />
+        <module name="ch8_6_1" />
+        <module name="ch10war" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
